@@ -1,0 +1,1 @@
+{"type":"config","file":"pins_cfg","data":{"TFT_SCL":40,"TFT_SDA":45,"TFT_CS":42,"TFT_DC":41,"TFT_RST":39,"TFT_BL":48,"SD_CLK":14,"SD_CMD":15,"SD_D0":16,"SD_CS":21,"KEY":0},"ts":1775571538994}
